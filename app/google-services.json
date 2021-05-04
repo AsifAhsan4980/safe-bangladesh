@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167292179395",
+    "project_id": "ahsan-s-safe-bangladesh",
+    "storage_bucket": "ahsan-s-safe-bangladesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167292179395:android:8668b2e40f4b2dd529a376",
+        "android_client_info": {
+          "package_name": "com.example.ahsanssafebangladesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167292179395-le17pldf4bisg0o940vjb5a7fe2tnkoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahsanssafebangladesh",
+            "certificate_hash": "df833f57589fd1f597f2234e05c623b8f2b4102d"
+          }
+        },
+        {
+          "client_id": "167292179395-dflo4h8khpp2i3m135d0lnt7hogbo69m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ7KI243bhHAlRD3fYjIZTgSlUZpUzDag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167292179395-dflo4h8khpp2i3m135d0lnt7hogbo69m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
